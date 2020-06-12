@@ -37,7 +37,7 @@ namespace DemoAPI
             {
                 app.UseDeveloperExceptionPage();
             }
-
+//test
 
 
             app.UseCors(MyAllowSpecificOrigins);
